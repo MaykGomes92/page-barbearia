@@ -9,5 +9,3 @@
 * Efeito no header feito com Keyframes
 * Efeito de menu responsivo/nav-bar com media queries
 
-(<iframe src='//gifs.com/embed/nRYR17' frameborder='0' scrolling='no' width='1920px' height='470px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
-)
