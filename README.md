@@ -3,7 +3,7 @@
  
  Link pro site [clique aqui!](https://maykgomes92.github.io/landing-page-barbearia/)
 
-========== EFEITOS E ANIMAÇÕES ==========
+========== EFEITOS E ANIMAÇÕES ===========
 
 * Efeito Typewriter/Máquina de escrever com js
 * Efeito no header feito com Keyframes
