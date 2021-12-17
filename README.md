@@ -1,5 +1,7 @@
-# landing-page-barbearia
- Uma Landing page responsiva, feita com HTML5, CSS3 e JS.
+# Sobre o Projeto
+Uma landing page responsiva, utilizando se de vários efeitos e animações, usando Media Queries para servir para diversos dispositivos.
+
+## Tecnologias usadas
  
  Link pro site [clique aqui!](https://maykgomes92.github.io/landing-page-barbearia/)
 
