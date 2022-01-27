@@ -8,7 +8,7 @@ Uma landing page responsiva, utilizando se de vários efeitos e animações, usa
 ![js-git](https://user-images.githubusercontent.com/77819811/146499840-7f25e1ad-3b58-44e4-9478-7b8bc0975647.png)
 
  
- Link pro site [clique aqui!](https://maykgomes92.github.io/landing-page-barbearia/)
+ Link pro site [clique aqui!](https://maykgomes92.github.io/page-barbearia/)
 
 ========== EFEITOS E ANIMAÇÕES ===========
 
